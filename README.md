@@ -1,1 +1,2 @@
-# Mnemosyne
+# NiFTy
+# NiFTy_Policy
