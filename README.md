@@ -1,2 +1,1 @@
-# NiFTy
 # NiFTy_Policy
